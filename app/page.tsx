@@ -46,10 +46,7 @@ const defaultTheme: ThemeData = {
 };
 
 const donationLinks = [
-  { label: "UPI", href: "upi://pay?pa=your-upi-id@bank&pn=Story-Bildr&cu=INR" },
-  { label: "Razorpay", href: "https://rzp.io/l/your-payment-link" },
-  { label: "Ko-fi", href: "https://ko-fi.com/" },
-  { label: "PayPal", href: "https://paypal.me/" },
+  { label: "UPI", href: "upi://pay?pa=6291873663@ybl&pn=Story-Bildr&cu=INR" },
 ];
 
 function validSupabaseUrl(value: string) {
